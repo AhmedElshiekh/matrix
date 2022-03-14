@@ -17,3 +17,5 @@ Input: ["aaey, rrum, tgmn, ball", "all,ball,mur,raeymnl,tall,true,trum"]
 Output: true
 Input: ["aaey, rrum, tgmn, ball", "all,ball,mur,raeymnl,rumk,tall,true,trum,yes"]
 Output: rumk,yes
+
+solved using php and js
